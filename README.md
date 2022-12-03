@@ -13,10 +13,10 @@ Esse projeto é uma landing page da empresa **Blizzard**, ela é composta por um
 Para facilitar a codificação do projeto foi usado um protótipo do figma como base, o autor do layout é o design [**Gilberto Prado**](https://www.linkedin.com/in/gilberto-insanydesign/), [clique aqui](https://www.brchallenges.com/desafio/blizzard) para saber mais detalhes do desafio.
 
 ## 🚀 Tecnologias
-
-- [Item 1](http://localhost:3000/)
-- [Item 2](http://localhost:3000/)
-- [Item 3](http://localhost:3000/)
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind css](https://tailwindcss.com/)
 
 ## 📝 Requisitos do desafio
 
